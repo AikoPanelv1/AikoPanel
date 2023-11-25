@@ -26,6 +26,6 @@ Step 3: Chờ cho tới khi Panel thông báo cập nhật thành công
 
 ## Nếu gặp bất cứ vấn đề gì thì hãy đặt câu hỏi tại đây
 
-Gặp vấn đề, Hãy đặt câu hỏi tại đây : [Issues]([https://t.me/AikoServer_Community](https://github.com/AikoPanel/AikoPanel/issues)https://github.com/AikoPanel/AikoPanel/issues) 
+Gặp vấn đề, Hãy đặt câu hỏi tại đây : [Issues](https://github.com/AikoPanel/AikoPanel/issues) 
 
 hoặc có thể gợi ý tính năng ở đó nhớ mô tả chi tiết nhé , Cảm ơn mọi người sử dụng AikoPanel
